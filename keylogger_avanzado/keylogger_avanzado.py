@@ -32,8 +32,8 @@ import psutil
 # CONFIGURACIÓN
 # ===================================================================
 
-TOKEN = "8325410653:AAEfaBwelXzUZub0tUlPSjg4MAx-WqGvd1w"
-CHAT_ID = "1490959763"
+TOKEN = ""
+CHAT_ID = ""
 AES_KEY = os.urandom(32)
 
 SELF_DESTRUCT_DAYS = 7
